@@ -11,6 +11,6 @@ def find_even_values(src)
         puts src[count][inner_count]
         inner_count += 1
       end
-    count += 1
   end
+  count += 1
 end
